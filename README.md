@@ -45,4 +45,6 @@ Length: Around 400–600 words.
 >
 > This cycle between the frontend to backend to database and back again is the foundation of most web apps.
 >
-> 2.
+> 2. Think of Instagram like a restaurant. The frontend would be the dining area and this is where the users would interact with the service, such as read the menu (your feed), place orders (likes, comments, uploads), and get your food served (photos, videos). The backend would be the waitstaff and kitchen. The waitstaff (Express server) takes your order from the frontend and brings it to the kitchen. They also bring back your food and updates, making sure everything runs smoothly and respond to customer needs. The database would be the pantry and recipe book, where all the ingredients (data) are stored. The kitchen (backend) goes here to fetch what it needs or add new supplies. It keeps everything organized and consistent.
+>
+> 3.
